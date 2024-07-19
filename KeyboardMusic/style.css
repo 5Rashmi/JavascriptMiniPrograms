@@ -1,15 +1,50 @@
 body {
+  background: url("https://img.freepik.com/premium-photo/futuristic-night-landscape-background-ai-generated_106547-385.jpg") no-repeat;
+  background-size:cover;
+  background-position: center top;
   font-family: "Playwrite DE Grund", cursive;
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
   font-size: 60px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.keys{
+  display: flex;
 }
 
 kbd{
-  font-family: "Kalnia Glaze", serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
+  color: rgb(255, 240, 245);
+}
+
+.key{
+  background-color: hsla(208, 18%, 31%, 0.623);
+  border: 2px solid black;
+  margin: 1rem;
+  border-radius: 20px;
+  padding: 1rem .6rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 120px;
+  transition: all 1s;
+  text-shadow: 0 2px 20px;
+}
+.sound{
+  color: hsl(261, 92%, 85%);
+  font-size: 30px;
+}
+.playing{
+  transform: scale(1.1);
+  border-color: hsl(261, 100%, 79%);
+  box-shadow: 0 0 20px white;
 }
