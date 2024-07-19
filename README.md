@@ -21,7 +21,7 @@ This repository contains mini projects developed as part of the [JavaScript30](h
 
 ## Project 1: Keyboard Music ⌨️🎵
 
-![Keyboard Music](https://via.placeholder.com/600x400.png?text=Keyboard+Music)
+![Keyboard Music](https://www.uscreen.tv/wp-content/uploads/2021/02/royalty-free-music-906x515.png)
 
 ### About
 This project plays the music of different nature themes when clicked on the respective keyboard keys.
@@ -40,7 +40,7 @@ This project plays the music of different nature themes when clicked on the resp
 
 ## License 📜
 
-This repository is licensed under the [MIT License](https://github.com/5Rashmi/JavascriptMiniPrograms/blob/main/LICENSE). See the LICENSE file for more information.
+This repository is licensed under the [MIT License](https://github.com/5Rashmi/JavascriptMiniPrograms/blob/master/LICENSE). See the LICENSE file for more information.
 
 ---
 
