@@ -1,7 +1,6 @@
 body {
   background: url("https://img.freepik.com/premium-photo/futuristic-night-landscape-background-ai-generated_106547-385.jpg") no-repeat;
   background-size:cover;
-  background-position: center top;
   font-family: "Playwrite DE Grund", cursive;
   font-optical-sizing: auto;
   font-weight: 200;
@@ -16,8 +15,10 @@ body {
 }
 
 .keys{
+  position: relative;
   display: flex;
   column-gap: 2rem;
+  z-index: 1;
 }
 
 kbd{
