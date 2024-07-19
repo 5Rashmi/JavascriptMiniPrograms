@@ -6,7 +6,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
-  font-size: 60px;
+  font-size: 120px;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -17,6 +17,7 @@ body {
 
 .keys{
   display: flex;
+  column-gap: 2rem;
 }
 
 kbd{
@@ -27,20 +28,20 @@ kbd{
 }
 
 .key{
-  background-color: hsla(208, 18%, 31%, 0.623);
+  background-color: hsla(207, 4%, 43%, 0.623);
   border: 2px solid black;
   margin: 1rem;
   border-radius: 20px;
-  padding: 1rem .6rem;
+  padding: 0.6rem .6rem;
   display: flex;
   flex-direction: column;
   text-align: center;
-  width: 120px;
+  width: 160px;
   transition: all 1s;
   text-shadow: 0 2px 20px;
 }
 .sound{
-  color: hsl(261, 92%, 85%);
+  color: hsl(261, 100%, 88%);
   font-size: 30px;
 }
 .playing{
