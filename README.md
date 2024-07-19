@@ -21,8 +21,6 @@ This repository contains mini projects developed as part of the [JavaScript30](h
 
 ## Project 1: Keyboard Music ⌨️🎵
 
-<img src="https://www.uscreen.tv/wp-content/uploads/2021/02/royalty-free-music-906x515.png" alt="Royalty-Free Music" style="width: 100%; height: auto;">
-
 ### About
 This project plays the music of different nature themes when clicked on the respective keyboard keys.
 
