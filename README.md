@@ -16,13 +16,13 @@ This repository contains mini projects developed as part of the [JavaScript30](h
 ## 📚 Table of Contents
 
 - [Project 1: Keyboard Music](#project-1-keyboard-music-)
-  - [About Keyboard Music](#about-keyboard-music)
-  - [Features of Keyboard Music](#features-of-keyboard-music)
-  - [Link for Keyboard Music](#link-for-keyboard-music)
+  - [About Keyboard Music](#about)
+  - [Features of Keyboard Music](#features)
+  - [Link for Keyboard Music](#link)
 - [Project 2: Clock](#project-2-clock-)
-  - [About Clock](#about-clock)
-  - [Features of Clock](#features-of-clock)
-  - [Link for Clock](#link-for-clock)
+  - [About Clock](#about-1)
+  - [Features of Clock](#features-1)
+  - [Link for Clock](#link-1)
 
 ---
 
