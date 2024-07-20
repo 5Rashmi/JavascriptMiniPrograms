@@ -3,7 +3,9 @@ html {
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
-  background: radial-gradient(circle at center, hsl(252, 24%, 12%), hsl(252, 41%, 12%), hsl(251, 49%, 8%));
+  background: url(blue-orange-cubes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: center;
   font-size: 10px;
 }
@@ -25,6 +27,7 @@ body{
     overflow: hidden;
     z-index: 10;
     backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     border-top: 1px solid rgba(255, 255, 255, 0.02);
     border-left: 1px solid rgba(255, 255, 255, 0.02);
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.2);
