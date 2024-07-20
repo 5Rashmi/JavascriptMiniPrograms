@@ -16,6 +16,7 @@ This repository contains mini projects developed as part of the [JavaScript30](h
 ## 📚 Table of Contents
 
 - [Project 1: Keyboard Music](#project-1-keyboard-music)
+- [Project 2: Clock](#project-2-clock)
 
 ---
 
@@ -33,6 +34,21 @@ This project plays the music of different nature themes when clicked on the resp
 
 ### Link
 [🔗 Keyboard Music Project](https://5rashmi.github.io/JavascriptMiniPrograms/KeyboardMusic/)
+
+---
+
+## Project 2: Clock 🕐
+
+### About
+This is a simple analog clock program that displays the time with a transparent clock.
+### Features
+- 🕙 Displays real time
+- ⌨️ Code for analog clock
+- 🎨 Transparent css added
+- 🚶 Transitions for clock movement added
+
+### Link
+[🔗 Clock Project](https://5rashmi.github.io/JavascriptMiniPrograms/Clock/)
 
 ---
 
