@@ -23,7 +23,7 @@ This repository contains mini projects developed as part of the [JavaScript30](h
   - [About Clock](#about-1)
   - [Features of Clock](#features-1)
   - [Link for Clock](#link-1)
-- [Project 3: Playing with CSS variables & JS](#project-3-playing-with-css-variables-&-js-)
+- [Project 3: Playing with CSS variables & JS](#project-3-playing-with-css-variables-%26-js-)
   - [About Playing with CSS variables & JS](#about-2)
   - [Features of Playing with CSS variables & JS](#features-2)
   - [Link for Playing with CSS variables & JS](#link-2)
