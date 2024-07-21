@@ -23,10 +23,10 @@ This repository contains mini projects developed as part of the [JavaScript30](h
   - [About Clock](#about-1)
   - [Features of Clock](#features-1)
   - [Link for Clock](#link-1)
-- [Project 3: Playing with CSS variables & JS](#project-3-playing-with-css-variables-%26-js-)
-  - [About Playing with CSS variables & JS](#about-2)
-  - [Features of Playing with CSS variables & JS](#features-2)
-  - [Link for Playing with CSS variables & JS](#link-2)
+- [Project 3: Playing with CSS variables and JS](#project-3-playing-with-css-variables-and-js-)
+  - [About Playing with CSS variables and JS](#about-2)
+  - [Features of Playing with CSS variables and JS](#features-2)
+  - [Link for Playing with CSS variables and JS](#link-2)
   
 ---
 
@@ -62,7 +62,7 @@ This is a simple analog clock program that displays the time with a transparent 
 
 ---
 
-## Project 3: Playing with CSS variables & JS 🤾‍♂️
+## Project 3: Playing with CSS variables and JS 🤾‍♂️
 
 ### About
 This program demonstrates how to create and manipulate CSS variables using JavaScript. It features interactive controls for adjusting the spacing, blur, and base color of an image, showcasing the dynamic capabilities of CSS variables.
@@ -72,7 +72,7 @@ This program demonstrates how to create and manipulate CSS variables using JavaS
 - 🎨 Base Color Control: Change the background color behind the image
 
 ### Link
-[🔗 Playing with CSS variables & JS Project](https://5rashmi.github.io/JavascriptMiniPrograms/PlayingWithCSSVariablesNJS/)
+[🔗 Playing with CSS variables and JS Project](https://5rashmi.github.io/JavascriptMiniPrograms/PlayingWithCSSVariablesNJS/)
 
 ---
 
