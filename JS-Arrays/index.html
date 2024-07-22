@@ -43,6 +43,25 @@
                 return total + (inventor.passed - inventor.year);
             }, 0);
             console.table(totalYears);
+
+            // sorting inventers by the years they lived
+            const oldest = inventors.sort((a, b) => {
+                const lastGuy = a.passed - a.year;
+                const nextGuy = b.passed - b.year;
+
+                return lastGuy > nextGuy ? -1 : 1;
+            });
+            console.table(oldest);
+
+            //sort people alphabetically by their names
+            const alpha = people.sort((lastOne, nextOne) => {
+                const [aLast, aFirst] = lastOne.split(', ');
+                const [bLast, bFirst] = nextOne.split(', ');
+                return aLast > bLast ? 1 : -1;
+            });
+            console.table(alpha);
+
+            
     </script>
 </body>
 </html>
