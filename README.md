@@ -27,6 +27,9 @@ This repository contains mini projects developed as part of the [JavaScript30](h
   - [About Playing with CSS variables and JS](#about-2)
   - [Features of Playing with CSS variables and JS](#features-2)
   - [Link for Playing with CSS variables and JS](#link-2)
+- [Project 4: JavaScript Arrays](#project-4-javascript-arrays-)
+  - [About JavaScript Arrays](#about-3)
+  - [Features of JavaScript Arrays](#features-3)
   
 ---
 
@@ -73,6 +76,18 @@ This program demonstrates how to create and manipulate CSS variables using JavaS
 
 ### Link
 [🔗 Playing with CSS variables and JS Project](https://5rashmi.github.io/JavascriptMiniPrograms/PlayingWithCSSVariablesNJS/)
+
+---
+
+## Project 4: JavaScript Arrays 📥
+
+### About
+It includes some array methods that help us to simplify tasks by providing concise and expressive ways to manipulate and transform array data, reducing the need for complex loops and manual iteration.
+### Features
+- 🔍 Includes filter()
+- ➡️ Includes map()
+- 🔃 Includes sort()
+- ➖ Includes reduce()
 
 ---
 
