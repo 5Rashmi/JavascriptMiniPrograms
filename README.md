@@ -103,3 +103,5 @@ You can clone this repository using the following command:
 
 ```bash
 git clone https://github.com/5Rashmi/JavascriptMiniPrograms.git
+
+### ![Thanks for visiting my Repository! Contributions and feedback are welcome.](https://img.shields.io/badge/Thanks%20for%20visiting%20my%20Repository!%20Contributions%20and%20feedback%20are%20welcome.-red?style=for-the-badge)
