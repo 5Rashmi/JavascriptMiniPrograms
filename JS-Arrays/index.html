@@ -61,7 +61,18 @@
             });
             console.table(alpha);
 
+            //reduce
+            const data = ['naruto', 'luffy', 'naruto', 'zoro', 'yohan', 'yohan', 'eren', 'zoro',
+                'naruto', 'luffy', 'luffy', 'zoro', 'eren', 'eren', 'eren', 'yohan', 'luffy', 'luffy', 'zoro', 'luffy', 'zoro'];
             
+            const characters = data.reduce((obj, item) => {
+                if(!obj[item]){
+                    obj[item] = 0;
+                }
+                obj[item]++;
+                return obj;
+            }, {});
+            console.table(characters);
     </script>
 </body>
 </html>
