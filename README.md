@@ -27,6 +27,9 @@ This repository contains mini projects developed as part of the [JavaScript30](h
   - [About Playing with CSS variables and JS](#about-2)
   - [Features of Playing with CSS variables and JS](#features-2)
   - [Link for Playing with CSS variables and JS](#link-2)
+- [Project 4: JavaScript Arrays](#project-4-javascript-arrays-)
+  - [About JavaScript Arrays](#about-3)
+  - [Features of JavaScript Arrays](#features-3)
   
 ---
 
@@ -76,6 +79,18 @@ This program demonstrates how to create and manipulate CSS variables using JavaS
 
 ---
 
+## Project 4: JavaScript Arrays 📥
+
+### About
+It includes some array methods that help us to simplify tasks by providing concise and expressive ways to manipulate and transform array data, reducing the need for complex loops and manual iteration.
+### Features
+- 🔍 Includes filter()
+- ➡️ Includes map()
+- 🔃 Includes sort()
+- ➖ Includes reduce()
+
+---
+
 ## License 📜
 
 This repository is licensed under the [MIT License](https://github.com/5Rashmi/JavascriptMiniPrograms/blob/master/LICENSE). See the LICENSE file for more information.
@@ -88,3 +103,8 @@ You can clone this repository using the following command:
 
 ```bash
 git clone https://github.com/5Rashmi/JavascriptMiniPrograms.git
+```
+
+---
+
+### ![Thanks for visiting my Repository! Contributions and feedback are welcome.](https://img.shields.io/badge/Thanks%20for%20visiting%20my%20Repository!%20Contributions%20and%20feedback%20are%20welcome.-red?style=for-the-badge)
