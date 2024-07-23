@@ -30,7 +30,11 @@ This repository contains mini projects developed as part of the [JavaScript30](h
 - [Project 4: JavaScript Arrays](#project-4-javascript-arrays-)
   - [About JavaScript Arrays](#about-3)
   - [Features of JavaScript Arrays](#features-3)
-  
+- [Project 5: Flex Panels Image Gallery](#project-5-flex-panels-image-gallery-)
+  - [About Flex Panels Image Gallery](#about-4)
+  - [Features of Flex Panels Image Gallery](#features-4)
+  - [Link for Flex Panels Image Gallery](#link-4)
+     
 ---
 
 ## Project 1: Keyboard Music ⌨️🎵
@@ -88,6 +92,20 @@ It includes some array methods that help us to simplify tasks by providing conci
 - ➡️ Includes map()
 - 🔃 Includes sort()
 - ➖ Includes reduce()
+
+---
+
+## Project 5: Flex Panels Image Gallery 🖼️
+
+### About
+This program creates a responsive layout with four panels, each displaying a different background image. The panels use a flexbox layout and animate transitions when their state changes. When a panel is activated, it expands, increases its font size, and reveals hidden content with smooth animations.
+### Features
+- 🖼️ Responsive panels with background images and centered text.
+- 💫 Smooth transitions and animations for expanding and revealing content.
+- 📐 Inner shadow effect and flexible layout using flexbox.
+
+### Link
+[🔗 Flex Panels Image Gallery](https://5rashmi.github.io/JavascriptMiniPrograms/FlexPanelsImgGallery/)
 
 ---
 
