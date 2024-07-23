@@ -30,10 +30,10 @@ This repository contains mini projects developed as part of the [JavaScript30](h
 - [Project 4: JavaScript Arrays](#project-4-javascript-arrays-)
   - [About JavaScript Arrays](#about-3)
   - [Features of JavaScript Arrays](#features-3)
-- [Project 5: Flex Panels Image Gallery](#project-5-flex-panels-image-gallery-)
+- [Project 5: Flex Panels Image Gallery](#project-5-flex-panels-image-gallery)
   - [About Flex Panels Image Gallery](#about-4)
   - [Features of Flex Panels Image Gallery](#features-4)
-  - [Link for Flex Panels Image Gallery](#link-4)
+  - [Link for Flex Panels Image Gallery](#link-3)
      
 ---
 
